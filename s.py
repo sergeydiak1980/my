@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import telebot
 
-token = '1012309118:AAEofoO0fskpb20rXKrz6Riw0QNoBmWhpfw'
+token = 'тут токен'
 
 bot = telebot.TeleBot(token)
 
